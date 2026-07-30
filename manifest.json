@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Focus New Tab",
+  "version": "1.0.0",
+  "description": "A minimal custom new tab page with a local video background, date, time and quick links.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
