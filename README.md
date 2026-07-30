@@ -1,0 +1,1 @@
+# focus-new-tab
